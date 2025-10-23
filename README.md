@@ -12,6 +12,12 @@
 docker pull eallion/postgres:14-alpine
 ```
 
+### Build
+
+```bash
+docker build -t eallion/postgres:14-alpine .
+```
+
 ### Ref
 
 - https://github.com/docker-library/postgres/tree/master/14/alpine3.21
